@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>IMAGE LINKING</title>
+        <style>
+            .h1{
+                border: turquoise;
+                background-color: teal;
+                color:whitesmoke;
+                font-size: x-large;
+                font-weight: bold;
+                font-style: oblique;
+                text-align: center;
+            }
+            body{
+                background-color:thistle;
+
+            }
+            p{
+                text-decoration: underline;
+                color:snow;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="h1" >IMAGE LINKING </h1>
+        <p >click the below image  to visit gitam wikipedia </p>
+        <a href="https://en.wikipedia.org/wiki/Gandhi_Institute_of_Technology_and_Management" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/a/a6/Gandhi_Institute_of_Technology_and_Management_logo.jpg"></a>
+        <p>click the below image to visit youtube</p>
+        <a href="https://www.youtube.com/" target="_blank"><img src="https://cdn.havecamerawilltravel.com/photographer/files/2020/01/youtube-logo-new.jpg" width="35%"></a>
+    </body>
+</html>
